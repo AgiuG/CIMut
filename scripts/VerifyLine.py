@@ -23,7 +23,7 @@ def get_line_content(host, port, user, password, remote_file_path, line_number):
 
 # Call the function
 line_content = get_line_content(
-'192.168.15.34', 
+'IP da máquina', 
 22, 
 'stack', 
 '123456', 

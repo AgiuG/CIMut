@@ -43,7 +43,7 @@ def change_line_content(host, port, user, password, remote_file_path, line_numbe
 
 # Call the function
 change_line_content(
-'192.168.15.34', 
+'IP da máquina', 
 22, 
 'stack', 
 '123456', 
