@@ -1,7 +1,7 @@
 # CIMut - Cloud Injection Mutator
 
 ## 📋 Sobre
-CIMut é uma ferramenta desenvolvida para injeção de falhas em sistemas de software através da mutação do código-fonte. Ela permite avaliar a resiliência de sistemas complexos através da introdução controlada de falhas em componentes específicos.
+CIMut é uma ferramenta desenvolvida para injeção de falhas em ambientes de nuvem através da mutação do código-fonte. Ela permite avaliar a resiliência de sistemas complexos através da introdução controlada de falhas em componentes específicos.
 
 ## ✨ Características
 - Injeção de falhas através de mutação de código-fonte
